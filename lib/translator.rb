@@ -27,4 +27,5 @@ def get_english_meaning(file, emoticon)
       return memo
     end
   end
+  "Sorry, that emoticon was not found"
 end
